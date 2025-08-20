@@ -58,8 +58,14 @@ It includes:
 
 ---
 
-## 📊 Model
-See `/model/TRS_vs_Shares.xlsx` for a comparison of direct share ownership vs TRS exposure.  
+## 📊 Model Findings
+
+### Direct vs TRS PnL
+![TRS PnL](images/trs_pnl.png)
+
+### TRS Return on Collateral
+![TRS Return](images/trs_return.png)
+ 
 
 ---
 
