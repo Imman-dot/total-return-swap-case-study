@@ -69,6 +69,24 @@ It includes:
 
 ---
 
+## 🔁 Reproduce the Charts (Excel)
+- Open `model/TRS_vs_Shares.xlsx`
+- Change inputs (notional, financing, collateral) at the top
+- Charts update automatically
+
+---
+
+## 📁 Project Files
+- `README.md` – full write‑up
+- `notes/rough-notes.md` – draft notes
+- `model/TRS_vs_Shares.xlsx` – Excel model & charts
+- `model/TRS_simulation.py` – Python simulator
+- `images/` – exported charts (Excel + Python)
+- `data/trs_results.csv` – simulation outputs
+- `references/` – HMRC / legal references
+
+---
+
 ## 📚 References
 - HMRC TRS Guidance (`/references/`)  
 - Corporation Tax Act 2009, Section 695A  
