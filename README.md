@@ -12,6 +12,10 @@ It includes:
 
 ---
 
+📄 [Download the 2-Page Summary (PDF)](TRS_Case_Study_Summary.pdf)
+
+---
+
 ## 1️⃣ Introduction
 - What TRS are  
 - Why hedge funds use them  
