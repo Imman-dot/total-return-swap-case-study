@@ -76,6 +76,16 @@ It includes:
 
 ---
 
+### Python Simulation Results
+
+#### Direct vs TRS PnL
+![TRS PnL](images/trs_pnl.png)
+
+#### TRS Return on Collateral
+![TRS RoC](images/trs_return_on_collateral.png)
+
+---
+
 ## 📁 Project Files
 - `README.md` – full write‑up
 - `notes/rough-notes.md` – draft notes
